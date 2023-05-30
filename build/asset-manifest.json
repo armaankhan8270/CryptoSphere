@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/armaankhan8271/Crypto/static/css/main.7c997531.css",
+    "main.js": "/armaankhan8271/Crypto/static/js/main.ba187eaa.js",
+    "static/js/787.26bf0a29.chunk.js": "/armaankhan8271/Crypto/static/js/787.26bf0a29.chunk.js",
+    "static/media/bg23.jpg": "/armaankhan8271/Crypto/static/media/bg23.c356aa41412f84d4da98.jpg",
+    "index.html": "/armaankhan8271/Crypto/index.html",
+    "main.7c997531.css.map": "/armaankhan8271/Crypto/static/css/main.7c997531.css.map",
+    "main.ba187eaa.js.map": "/armaankhan8271/Crypto/static/js/main.ba187eaa.js.map",
+    "787.26bf0a29.chunk.js.map": "/armaankhan8271/Crypto/static/js/787.26bf0a29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c997531.css",
+    "static/js/main.ba187eaa.js"
+  ]
+}
